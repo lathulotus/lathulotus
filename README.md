@@ -14,7 +14,7 @@ Hi, I'm Lathursha! I'm a Master's student passionate about genetics, genomics, a
 - **Programming Languages**: R, Python, Bash (Shell Script)
 - **Bioinformatics Tools**: BLAST, Bioconductor, edgeR, HISAT2, HTSeq, Samtools, BEDTools, Ensembl, FastQC, VCFtools
 - **Data Analysis**: Tidyverse, ggplot2, dplyr, tidyr pandas, matplotlib, seaborn, PCA
-- **Version Control**: Git, GitHub, Jupyter Notebooks, SciNet
+- **Version Control**: Jupyter Notebooks, SciNet
 
 ## Reach Me
 I'm always open to connecting with fellow students, bioinformaticians, and anyone who'd love to chat about computational biology! The best ways to reach me are through:
