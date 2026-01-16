@@ -1,4 +1,4 @@
-# Lathursha's Profile 🧫
+# Lathursha's Profile 🪷
 Hi, I'm Lathursha! I'm a Master's student passionate about genetics, genomics, and bioinformatics!
 
 ## About Me
@@ -6,9 +6,7 @@ Hi, I'm Lathursha! I'm a Master's student passionate about genetics, genomics, a
 
 🔬 Background in **Forensic Biology (HBSc)** from the University of Toronto Mississauga,  where I formally began using computational tools to solve biological challenges.
 
-🧫 Interested in leveraging **bioinformatics** to investigate **rare diseases**, to inform **patient care**, and to develop **personalized treatment strategies**.
-
-🧪 Driven by the goal of using **computational biology** to improve **diagnosis**, **prognosis**, and **treatment outcomes** for patients.
+🧫 Interested in leveraging **bioinformatics** to investigate **complex diseases**, to inform **patient care**, and to develop **personalized treatment strategies**.
 
 ## Skills & Tools
 - **Programming Languages**: R, Python, Bash (Shell Script)
@@ -17,7 +15,7 @@ Hi, I'm Lathursha! I'm a Master's student passionate about genetics, genomics, a
 - **Version Control**: Jupyter Notebooks, SciNet
 
 ## Reach Me
-I'm always open to connecting with fellow students, bioinformaticians, and anyone who'd love to chat about computational biology! The best ways to reach me are through:
+I'm always open to connecting with anyone who'd love to chat about forensics, genetics, or computational biology! The best ways to reach me are through:
 - LinkedIn: [My Profile](https://www.linkedin.com/in/lathursha-kalaranjan/)
 
 <!---
