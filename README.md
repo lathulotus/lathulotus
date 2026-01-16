@@ -2,11 +2,11 @@
 Hi, I'm Lathursha! I'm a Master's student passionate about genetics, genomics, and bioinformatics!
 
 ## About Me
-🎓 Pursuing a Master's in **Medical Genomics (MHSc)** at the University of Toronto, where I'm exploring bioinformatic tools relevant to medical research.
+🪴 Pursuing a Master's in **Medical Genomics (MHSc)** at the University of Toronto, where I'm exploring bioinformatic tools relevant to medical research.
 
-🔬 Background in **Forensic Biology (HBSc)** from the University of Toronto Mississauga,  where I formally began using computational tools to solve biological challenges.
+🌱 Background in **Forensic Biology (HBSc)** from the University of Toronto Mississauga,  where I formally began using computational tools to solve biological challenges.
 
-🧫 Interested in leveraging **bioinformatics** to investigate **complex diseases**, to inform **patient care**, and to develop **personalized treatment strategies**.
+🍀 Interested in leveraging **bioinformatics** to investigate **complex diseases**, to inform **patient care**, and to develop **personalized treatment strategies**.
 
 ## Skills & Tools
 - **Programming Languages**: R, Python, Bash (Shell Script)
