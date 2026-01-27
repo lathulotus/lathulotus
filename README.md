@@ -11,7 +11,7 @@ Hi, I'm Lathursha! I'm a Master's student passionate about genetics, genomics, a
 ## Skills & Tools
 - **Programming Languages**: R, Python, Shell
 - **Bioinformatics Tools**: BLAST, Bioconductor, edgeR, HISAT2, HTSeq, Samtools, BEDTools, Ensembl, FastQC, VCFtools
-- **Data Analysis**: Tidyverse, ggplot2, dplyr, tidyr pandas, matplotlib, seaborn, PCA
+- **Data Analysis**: Tidyverse, ggplot2, dplyr, tidyr pandas, matplotlib, seaborn, PCA, factoextra, caret, randomForest
 - **Version Control**: Jupyter Notebooks, SciNet
 
 ## Reach Me
